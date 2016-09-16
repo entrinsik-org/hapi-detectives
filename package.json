@@ -1,6 +1,6 @@
 {
   "name": "ent-hapi-detectives",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "detective logic and routes for building new templates",
   "main": "lib/index.js",
   "directories": {
